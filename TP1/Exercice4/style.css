@@ -1,0 +1,6 @@
+.error {
+	/* border:  */
+	background: rgba(255, 8, 0, 0.63);
+	border: 2px solid red;
+	border-radius: 5px;
+}
